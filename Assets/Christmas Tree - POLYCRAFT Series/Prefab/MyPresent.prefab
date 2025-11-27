@@ -48,6 +48,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 123266, guid: 261868f3859344243b0d74ff1baa5702, type: 3}
+      propertyPath: m_TagString
+      value: modelObject
+      objectReference: {fileID: 0}
     - target: {fileID: 447276, guid: 261868f3859344243b0d74ff1baa5702, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.2
